@@ -5,7 +5,7 @@ A simple text-based adventure game where players make choices to find treasure o
 
 **How to Run:**  
 1. Clone the repository.  
-2. Run the 'treasure_island.py' script in a Python environment.  
+2. Run the 'adventure_game.py' script in a Python environment.  
 3. Follow the prompts and make your choices!
 
 **Features:**  
